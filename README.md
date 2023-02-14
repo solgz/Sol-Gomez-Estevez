@@ -30,7 +30,11 @@
 
 <br>
 
+https://github-readme-stats.vercel.app/api?username=solgz&show_icons=true&count_private=true)](https://github.com/solgz
 
 ## Contact me
-Feel free to reach out to me at solgomez.dev@gmail.com
-https://www.linkedin.com/in/sol-gomez-estevez/ 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sol-gomez-estevez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ignaluna-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:solgomez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignaluna98pb@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
