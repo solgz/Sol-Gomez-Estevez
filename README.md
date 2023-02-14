@@ -30,7 +30,7 @@
 
 <br>
 
-https://github-readme-stats.vercel.app/api?username=solgz&show_icons=true&count_private=true)](https://github.com/solgz
+[![Sol Gomez GitHub Stats](https://github-readme-stats.vercel.app/api?username=solgz&show_icons=true&count_private=true)](https://github.com/solgz)
 
 ## Contact me
 
