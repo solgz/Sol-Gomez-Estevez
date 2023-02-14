@@ -1,8 +1,6 @@
-# Sol-Gomez-Estevez
+# Sol Gomez Estevez
 
-### <div align="center">I'm Sol, a software developer</div> 
-
-## Who am I
+## About Me
 
 
 
