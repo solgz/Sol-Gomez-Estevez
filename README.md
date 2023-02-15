@@ -29,9 +29,9 @@ I'm a Full Stack web developer, always eager to improve in what I know as well a
 
 <br>
 
-<div align="center">  
+
 [![Sol Gomez GitHub Stats](https://github-readme-stats.vercel.app/api?username=solgz&show_icons=true&count_private=true)](https://github.com/solgz)
-</div>
+
 
 ## Contact me
 
