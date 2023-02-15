@@ -38,6 +38,6 @@ I
 ## Contact me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sol-gomez-estevez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ignaluna-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:solgomez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignaluna98pb@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sol-gomez-estevez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@solgomezestevez-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:solgomez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-solgomez.dev@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
